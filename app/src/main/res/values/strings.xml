@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UserRespon</string>
+    <string name="searchbar_hint">Masukkan kata</string>
+    <string name="detailUser">Detail User</string>
+    <string name="tabFollower">Follower</string>
+    <string name="tabFollowing">Following</string>
+    <string name="follower_count" />
+    <string name="following_count">\n</string>
+    <string name="error_occurred" />
+    <string name="favorite"> Favorite User</string>
+    <string name="not_found">user tidak ditemukan</string>
+    <string name="dark_mode">Dark Mode</string>
+
+
+</resources>
